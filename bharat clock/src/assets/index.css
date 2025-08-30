@@ -1,0 +1,16 @@
+.headingContainer{
+  text-align: center;
+  font-size: 200px;
+  background-color: skyblue;
+}
+.paraLine{
+  text-align: center;
+  font-size: 100px;
+  background-color: rgb(238, 212, 178);
+}
+.Currenttime{
+  text-align: center;
+  font-size: 100px;
+  background-color: rgb(231, 173, 217);
+
+}
